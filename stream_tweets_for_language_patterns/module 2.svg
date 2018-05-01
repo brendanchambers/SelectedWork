@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1.4E-45"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="0.000000 0.000000 0.000000 0.000000"
+     height="1.4E-45" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="node-labels">
+        <text font-size="29" x="-543.24567" y="634.2262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n0">
+            abandon
+        </text>
+        <text font-size="34" x="-823.2243" y="-425.15842" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n1">
+            abc
+        </text>
+        <text font-size="33" x="85.70797" y="1040.3176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n2">
+            achieve
+        </text>
+        <text font-size="37" x="623.59735" y="582.2713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n3">
+            act
+        </text>
+        <text font-size="45" x="186.64354" y="-738.83954" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n4">
+            activism
+        </text>
+        <text font-size="29" x="931.09894" y="-628.01624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n5">
+            actual
+        </text>
+        <text font-size="38" x="-717.1297" y="-170.62936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n6">
+            address
+        </text>
+        <text font-size="42" x="239.18073" y="253.90712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n7">
+            africa
+        </text>
+        <text font-size="48" x="229.97174" y="559.92065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n8">
+            african
+        </text>
+        <text font-size="48" x="-481.4909" y="-479.1147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n9">
+            ali
+        </text>
+        <text font-size="52" x="502.67206" y="351.88882" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n10">
+            alive
+        </text>
+        <text font-size="38" x="-301.49542" y="-764.383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n11">
+            ally
+        </text>
+        <text font-size="29" x="743.7859" y="-86.06679" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n12">
+            allybrooke
+        </text>
+        <text font-size="31" x="700.70123" y="313.26578" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n13">
+            also
+        </text>
+        <text font-size="60" x="458.15796" y="543.5439" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n14">
+            american
+        </text>
+        <text font-size="35" x="729.36786" y="-474.18665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n15">
+            amp
+        </text>
+        <text font-size="33" x="-577.0283" y="-144.17145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n16">
+            anncoulter
+        </text>
+        <text font-size="36" x="-427.73602" y="817.49426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n17">
+            anti
+        </text>
+        <text font-size="41" x="-418.38455" y="652.222" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n18">
+            anyone
+        </text>
+        <text font-size="47" x="617.9233" y="179.75165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n19">
+            anywhere
+        </text>
+        <text font-size="49" x="-318.7064" y="236.14235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n20">
+            appropria
+        </text>
+        <text font-size="30" x="1002.33276" y="223.14236" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n21">
+            ariberman
+        </text>
+        <text font-size="43" x="-343.52835" y="-486.8443" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n22">
+            ask
+        </text>
+        <text font-size="89" x="114.265656" y="-391.32736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n23">
+            asked
+        </text>
+        <text font-size="29" x="-64.84741" y="1126.0956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n24">
+            away
+        </text>
+        <text font-size="39" x="-0.28899097" y="-955.7361" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n25">
+            ayatollah
+        </text>
+        <text font-size="32" x="-796.8385" y="-244.28528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n26">
+            bad
+        </text>
+        <text font-size="37" x="209.75426" y="390.68192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n27">
+            bait
+        </text>
+        <text font-size="32" x="594.2069" y="-90.03551" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n28">
+            basketball
+        </text>
+        <text font-size="29" x="-339.1924" y="975.4448" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n29">
+            bassnectar
+        </text>
+        <text font-size="42" x="-397.4442" y="500.03528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n30">
+            bbcworld
+        </text>
+        <text font-size="33" x="-355.06387" y="-147.81232" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n31">
+            bbpvca
+        </text>
+        <text font-size="37" x="513.35333" y="49.453045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n32">
+            beautiful
+        </text>
+        <text font-size="41" x="94.22007" y="706.8823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n33">
+            becky
+        </text>
+        <text font-size="30" x="-729.3824" y="-330.1564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n34">
+            become
+        </text>
+        <text font-size="61" x="-848.98706" y="-28.830421" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n35">
+            behind
+        </text>
+        <text font-size="72" x="-262.18082" y="37.67193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n36">
+            bhm
+        </text>
+        <text font-size="30" x="-117.65552" y="908.7621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n37">
+            biggest
+        </text>
+        <text font-size="34" x="-151.21397" y="-703.70465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n38">
+            birmingham
+        </text>
+        <text font-size="42" x="240.25055" y="831.83044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n39">
+            birthday
+        </text>
+        <text font-size="34" x="-701.91504" y="161.24156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n40">
+            box
+        </text>
+        <text font-size="40" x="-698.5286" y="319.37457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n41">
+            breakfast
+        </text>
+        <text font-size="41" x="528.4279" y="-658.01556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n42">
+            burden
+        </text>
+        <text font-size="58" x="-467.75168" y="-21.66682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n43">
+            byrd
+        </text>
+        <text font-size="35" x="685.99493" y="-590.30756" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n44">
+            call
+        </text>
+        <text font-size="112" x="189.08868" y="45.92496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n45">
+            called
+        </text>
+        <text font-size="30" x="-100.62147" y="-824.3843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n46">
+            cannot
+        </text>
+        <text font-size="36" x="-935.98444" y="174.5324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n47">
+            capitalism
+        </text>
+        <text font-size="38" x="-569.6773" y="-318.37573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n48">
+            care
+        </text>
+        <text font-size="37" x="-251.9701" y="840.1445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n49">
+            cda
+        </text>
+        <text font-size="37" x="845.9755" y="215.05246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n50">
+            celebrate
+        </text>
+        <text font-size="57" x="-641.92755" y="65.24294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n51">
+            cernovich
+        </text>
+        <text font-size="61" x="-236.90402" y="376.32245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n52">
+            challenge
+        </text>
+        <text font-size="38" x="-658.5874" y="556.7118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n53">
+            cle
+        </text>
+        <text font-size="53" x="524.64667" y="-243.29404" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n54">
+            clean
+        </text>
+        <text font-size="29" x="-229.23676" y="-447.30542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n55">
+            close
+        </text>
+        <text font-size="30" x="408.6751" y="-820.1319" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n56">
+            closest
+        </text>
+        <text font-size="28" x="-177.10963" y="1034.6761" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n57">
+            co
+        </text>
+        <text font-size="34" x="253.15903" y="-595.0357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n58">
+            communities
+        </text>
+        <text font-size="90" x="98.24023" y="-159.86293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n59">
+            conservative
+        </text>
+        <text font-size="48" x="845.73645" y="46.142456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n60">
+            content
+        </text>
+        <text font-size="39" x="70.937614" y="-838.05804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n61">
+            could
+        </text>
+        <text font-size="38" x="521.9048" y="802.0031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n62">
+            culture
+        </text>
+        <text font-size="51" x="-571.50397" y="367.9588" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n63">
+            cvaph
+        </text>
+        <text font-size="41" x="-374.63803" y="-633.36774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n64">
+            dad
+        </text>
+        <text font-size="55" x="-283.21664" y="627.37054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n65">
+            de
+        </text>
+        <text font-size="30" x="936.70416" y="-267.9616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n66">
+            dead
+        </text>
+        <text font-size="30" x="-1107.4419" y="227.89787" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n67">
+            deray
+        </text>
+        <text font-size="32" x="634.1943" y="-357.76553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n68">
+            dh
+        </text>
+        <text font-size="44" x="880.6304" y="-377.6256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n69">
+            discover
+        </text>
+        <text font-size="36" x="972.97485" y="-17.611895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n70">
+            discredit
+        </text>
+        <text font-size="43" x="389.73096" y="763.0587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n71">
+            djrarela
+        </text>
+        <text font-size="31" x="-33.5269" y="806.6624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n72">
+            djt
+        </text>
+        <text font-size="64" x="399.39355" y="-131.76004" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n73">
+            dr
+        </text>
+        <text font-size="53" x="527.4968" y="-474.3275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n74">
+            drama
+        </text>
+        <text font-size="35" x="276.3453" y="-827.4241" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n75">
+            dream
+        </text>
+        <text font-size="38" x="-224.62253" y="-583.85864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n76">
+            dreamers
+        </text>
+        <text font-size="37" x="696.8047" y="50.34953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n77">
+            drebae
+        </text>
+        <text font-size="60" x="654.71655" y="464.4972" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n78">
+            easter
+        </text>
+        <text font-size="33" x="5.5366526" y="409.15158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n79">
+            either
+        </text>
+        <text font-size="29" x="-551.6758" y="-602.02386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n80">
+            en
+        </text>
+        <text font-size="43" x="823.2438" y="366.2868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n81">
+            enemies
+        </text>
+        <text font-size="110" x="7.863942" y="286.92783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n82">
+            ethics
+        </text>
+        <text font-size="73" x="-74.47709" y="565.6914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n83">
+            even
+        </text>
+        <text font-size="34" x="-502.41794" y="-812.4989" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n84">
+            event
+        </text>
+        <text font-size="32" x="-45.689785" y="-728.5316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n85">
+            every
+        </text>
+        <text font-size="35" x="45.524635" y="880.4516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n86">
+            everybody
+        </text>
+        <text font-size="64" x="-401.43942" y="-270.40405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n87">
+            experience
+        </text>
+        <text font-size="64" x="-676.6212" y="-490.48483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n88">
+            extensive
+        </text>
+        <text font-size="105" x="-83.72727" y="32.068844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n89">
+            fact
+        </text>
+        <text font-size="29" x="8.055392" y="1305.2811" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n90">
+            fam
+        </text>
+        <text font-size="94" x="-177.01631" y="-230.52393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n91">
+            family
+        </text>
+        <text font-size="32" x="-303.61334" y="-1002.8124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n92">
+            father
+        </text>
+        <text font-size="52" x="-490.58347" y="231.57423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n93">
+            fbi
+        </text>
+        <text font-size="97" x="307.04742" y="-328.16507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n94">
+            feel
+        </text>
+        <text font-size="31" x="-742.7301" y="431.0362" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n95">
+            festival
+        </text>
+        <text font-size="37" x="378.70938" y="-675.1841" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n96">
+            figures
+        </text>
+        <text font-size="52" x="429.3783" y="172.76503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n97">
+            fired
+        </text>
+        <text font-size="32" x="357.6697" y="-534.23615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n98">
+            flooded
+        </text>
+        <text font-size="41" x="53.262646" y="-626.5861" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n99">
+            folks
+        </text>
+        <text font-size="34" x="-1045.5693" y="-143.12885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n100">
+            fought
+        </text>
+        <text font-size="29" x="-600.02423" y="-729.20953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n101">
+            found
+        </text>
+        <text font-size="28" x="794.64594" y="543.49805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n102">
+            foxnews
+        </text>
+        <text font-size="40" x="697.3315" y="-172.65395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n103">
+            franklinleonard
+        </text>
+        <text font-size="41" x="-817.071" y="97.88707" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n104">
+            freedom
+        </text>
+        <text font-size="89" x="-61.911316" y="-446.74" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n105">
+            full
+        </text>
+        <text font-size="36" x="875.7297" y="-124.57626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n106">
+            funder
+        </text>
+    </g>
+</svg>
