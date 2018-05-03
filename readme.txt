@@ -4,7 +4,7 @@ Postdoctoral gap year
 
 CONTENTS
 
-Note: Developer authorizations and account info as been removed from this codebased, so anyone
+Note: Developer authorizations and account info have been removed from this codebase, so anyone
 wishing to run scripts requiring authorization will need to obtain their own credentials.
 
 1. stream_tweets_for_language_patterns
